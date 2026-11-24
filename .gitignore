@@ -1,0 +1,7 @@
+*.exe
+*.o
+build/
+*.mp4
+*.mov
+*.mkv
+/build/ball
